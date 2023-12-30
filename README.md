@@ -1,2 +1,2 @@
-# -statikselYapay-renme-devi
+# -istatikselYapay-ogrenme-odevi
 İstatiksel Yapay Öğrenme Ödevi
